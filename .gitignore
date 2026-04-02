@@ -1,0 +1,1 @@
+# Gradle files\n.gradle/\n/build/\n/local.properties\n/.idea/\n*.iml\n*.hprof\n*.log\n# Android files\napp/build/\napp/intermediates/\napp/generated/\n# Misc\n.DS_Store\n.idea/\n*.class
